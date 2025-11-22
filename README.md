@@ -24,6 +24,7 @@ Perfect for learning RAG, building document AI apps, or preparing for LLM interv
 
 ## Project Structure
 
+```bash
 VECTORDB/
 ├── PyTesseract/                  # OCR-enabled Python environment
 │   ├── Dockerfile
@@ -40,7 +41,7 @@ VECTORDB/
 │       └── dummy.pdf
 │
 ├── docker-compose.yml
-
+```
 A simple, local vector database application that lets you ask natural language questions about your PDF documents.  
 It uses:
 - **PyPDF2 + pdf2image + Tesseract OCR** to extract text (including scanned PDFs)
