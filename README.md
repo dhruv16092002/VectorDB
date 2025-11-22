@@ -24,7 +24,6 @@ Perfect for learning RAG, building document AI apps, or preparing for LLM interv
 
 ## Project Structure
 
-```bash
 VECTORDB/
 ├── PyTesseract/                  # OCR-enabled Python environment
 │   ├── Dockerfile
