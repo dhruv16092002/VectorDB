@@ -1,5 +1,7 @@
 # VectorDB – Hands-on Vector Database with PDF RAG Pipeline
 
+![VectorDB](./Images/VectorDB.png)
+
 A complete, beginner-friendly project to learn **vector databases**, **text embeddings**, **semantic search**, and **Retrieval-Augmented Generation (RAG)** using real-world PDF documents.
 
 This project walks you through the entire pipeline:
