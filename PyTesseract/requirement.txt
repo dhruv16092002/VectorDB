@@ -1,0 +1,13 @@
+pytesseract
+opencv-python
+pillow
+pdf2image
+numpy
+qdrant-client
+pandas
+transformers
+torch
+sentence_transformers
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-huggingface
